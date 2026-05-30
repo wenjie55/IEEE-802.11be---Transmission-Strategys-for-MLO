@@ -5,6 +5,6 @@
 本模擬實驗評估 IEEE 802.11be 三頻段（2.4/5/6 GHz）下，採用Simultaneous Transmit/Receive（STR）模式之 MLO 設備上行傳輸效能。核心機制藉由分析 AP 端的封包損壞特徵，精準辨識 STA 的傳輸失敗原因並動態最佳化傳輸策略，從而顯著提升系統總吞吐量。
 
 ## 特色
-- **OFDMA Resource Allocation**:
-  - Supports MRUs from 26-tone to 4x996-tone, with data rates up to 2402 Mbps (MCS 11, 1024-QAM).
-  - Dynamically allocates MRUs based on required data rates and channel conditions (MCS_A, MCS_B).
+- **上行傳輸失敗分析框架**:
+  - 封包於物理層傳輸失敗進行分類
+  - 
