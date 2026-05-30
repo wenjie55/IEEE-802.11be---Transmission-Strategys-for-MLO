@@ -1,2 +1,2 @@
-# IEEE-802.11be-Transmission-Strategys-for-MLO
-基於802.11be 機制所設計出的多通道傳輸策略
+# 當MLO設備考慮多種傳輸失敗原因的自適應傳輸策略
+本模擬針對 IEEE 802.11be (Wi-Fi 7) 網路中，Access Point (AP) 管理多個Station(STA) 且存在異質流量需求的 BSS 環境進行效能優化，環境考慮密集部署下的多種傳輸失敗原因嚴重降低了系統效能，本文提出一套多鏈路的自適應傳輸策略。
